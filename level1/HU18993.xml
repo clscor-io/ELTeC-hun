@@ -7,8 +7,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Válságos napok : ELTeC kiadás</title>
-                <author ref="viaf:30410778">Kánya Emília (1830–1910)</author>
+                <title ref="wikidata:Q111172524">Válságos napok : ELTeC kiadás</title>
+                <author ref="viaf:30410778 wikidata:Q1123196">Kánya Emília (1830–1910)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
                     <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

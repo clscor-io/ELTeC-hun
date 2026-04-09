@@ -7,8 +7,8 @@
 <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Őserdőkön, tengereken : ELTeC kiadás</title>
-                <author ref="viaf:1657716 ">Donászy Ferenc (1858-1923)</author>
+                <title ref="wikidata:Q111172504">Őserdőkön, tengereken : ELTeC kiadás</title>
+                <author ref="viaf:1657716  wikidata:Q908867">Donászy Ferenc (1858-1923)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
                     <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

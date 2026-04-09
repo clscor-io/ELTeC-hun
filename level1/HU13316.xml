@@ -7,9 +7,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>A Kont-eset :  Fantasztikus regény a XXI. századból  : ELTeC edition
+            <title ref="wikidata:Q111172430">A Kont-eset :  Fantasztikus regény a XXI. századból  : ELTeC edition
             </title>
-            <author ref="viaf:121485073">Szemere György (1866-1952)
+            <author ref="viaf:121485073 wikidata:Q1089877">Szemere György (1866-1952)
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>

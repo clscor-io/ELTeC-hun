@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Köd :  Regény  : ELTeC edition</title>
-            <author ref="viaf:52610012">Gozsdu Elek (1863-1924)
+            <title ref="wikidata:Q111172492">Köd :  Regény  : ELTeC edition</title>
+            <author ref="viaf:52610012 wikidata:Q1027777">Gozsdu Elek (1863-1924)
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>

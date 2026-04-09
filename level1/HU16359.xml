@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Félvér : Regény : ELTeC edition</title>
-            <author ref="viaf:162597297">Prém József (1850-1910)</author>
+            <title ref="wikidata:Q111172474">Félvér : Regény : ELTeC edition</title>
+            <author ref="viaf:162597297 wikidata:Q61070104">Prém József (1850-1910)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

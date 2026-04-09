@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Korhadt fakeresztek : képek a magyar szabadságról  : ELTeC edition </title>
-            <author ref="viaf:58030320">Rákosi Viktor (1860-1923)</author>
+            <title ref="wikidata:Q1118960">Korhadt fakeresztek : képek a magyar szabadságról  : ELTeC edition </title>
+            <author ref="viaf:58030320 wikidata:Q339428">Rákosi Viktor (1860-1923)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

@@ -7,9 +7,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tabu :  Regény  : ELTeC edition
+            <title ref="wikidata:Q111172519">Tabu :  Regény  : ELTeC edition
             </title>
-            <author ref="viaf:309595549"> Teleki Sándorné (1864-1937)
+            <author ref="viaf:309595549 wikidata:Q47516117"> Teleki Sándorné (1864-1937)
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>

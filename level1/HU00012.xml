@@ -7,7 +7,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Irma hagyományai : ELTeC kiadás</title>
+            <title ref="wikidata:Q111172480">Irma hagyományai : ELTeC kiadás</title>
             <author>Vachott Sándorné (1828-1896)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>

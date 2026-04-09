@@ -8,8 +8,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Görbe hegyek országában : Regény : ELTeC edition</title>
-            <author ref="viaf:73060469">Tábori Róbert (1855-1906)</author>
+            <title ref="wikidata:Q111172477">Görbe hegyek országában : Regény : ELTeC edition</title>
+            <author ref="viaf:73060469 wikidata:Q1326046">Tábori Róbert (1855-1906)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

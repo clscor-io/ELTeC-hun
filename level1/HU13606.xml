@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Forgách Simon : Rákóczi korabeli regény : ELTeC edition</title>
-            <author ref="viaf:167135256">Werner Gyula (1862-1926)</author>
+            <title ref="wikidata:Q111172476">Forgách Simon : Rákóczi korabeli regény : ELTeC edition</title>
+            <author ref="viaf:167135256 wikidata:Q1464390">Werner Gyula (1862-1926)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

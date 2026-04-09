@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>A nagyasszony : Regény : ELTeC edition</title>
-            <author ref="viaf:39125767">Abonyi Árpád (1865-1918)</author>
+            <title ref="wikidata:Q111172436">A nagyasszony : Regény : ELTeC edition</title>
+            <author ref="viaf:39125767 wikidata:Q279011">Abonyi Árpád (1865-1918)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

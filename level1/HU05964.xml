@@ -7,7 +7,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Piroska : ELTeC edition</title>
+            <title ref="wikidata:Q111172506">Piroska : ELTeC edition</title>
             <author ref="viaf:na">Cholnoky László (1879-1929)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>

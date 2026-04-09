@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Anatole :  Regény  : ELTeC edition</title>
-            <author ref="viaf:56032353">Toldy István (1844-1879)
+            <title ref="wikidata:Q111172448">Anatole :  Regény  : ELTeC edition</title>
+            <author ref="viaf:56032353 wikidata:Q1184683">Toldy István (1844-1879)
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>

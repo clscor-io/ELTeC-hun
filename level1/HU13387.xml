@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Egri csillagok: Bornemissza Gergely élete: ELTeC edition</title>
-            <author ref="viaf:24643507"> Gárdonyi Géza (1863-1922) 
+            <title ref="wikidata:Q987956">Egri csillagok: Bornemissza Gergely élete: ELTeC edition</title>
+            <author ref="viaf:24643507 wikidata:Q221903"> Gárdonyi Géza (1863-1922) 
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>

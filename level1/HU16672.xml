@@ -7,8 +7,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Egy magyar amazon : ELTeC kiadás</title>
-                <author ref="viaf:221085154">Kovács József (1832-1897)</author>
+                <title ref="wikidata:Q111172468">Egy magyar amazon : ELTeC kiadás</title>
+                <author ref="viaf:221085154 wikidata:Q23938749">Kovács József (1832-1897)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
                     <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Sisyphus munkája : Regény : ELTeC edition</title>
-            <author ref="viaf:54198282">Csiky Gergely (1842-1891)</author>
+            <title ref="wikidata:Q111172513">Sisyphus munkája : Regény : ELTeC edition</title>
+            <author ref="viaf:54198282 wikidata:Q166952">Csiky Gergely (1842-1891)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Törökországi levelek : Válogatás : ELTeC edition</title>
-            <author ref="viaf:7410168 ">Mikes Kelemen (1690-1761)</author>
+            <title ref="wikidata:Q18571897">Törökországi levelek : Válogatás : ELTeC edition</title>
+            <author ref="viaf:7410168  wikidata:Q540184">Mikes Kelemen (1690-1761)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

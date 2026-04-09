@@ -7,8 +7,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>A Bakony : ELTeC kiadás</title>
-                <author ref="viaf:184888089">Eötvös Károly (1842-1916)</author>
+                <title ref="wikidata:Q111172416">A Bakony : ELTeC kiadás</title>
+                <author ref="viaf:184888089 wikidata:Q994550">Eötvös Károly (1842-1916)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
                     <name>Palkó Gábor<ref target="https://viaf.org/viaf/"/>

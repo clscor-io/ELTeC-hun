@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>A nagy véletlen : ELTeC edition</title>
-            <author ref="viaf:121446803">Ritoók Emma (1868-1945)
+            <title ref="wikidata:Q111172435">A nagy véletlen : ELTeC edition</title>
+            <author ref="viaf:121446803 wikidata:Q1249352">Ritoók Emma (1868-1945)
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>

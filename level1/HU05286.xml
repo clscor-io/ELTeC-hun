@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Midas király : ELTeC edition</title>
-            <author ref="viaf:49239294">Ambrus Zoltán (1861-1932)</author>
+            <title ref="wikidata:Q111172502">Midas király : ELTeC edition</title>
+            <author ref="viaf:49239294 wikidata:Q373131">Ambrus Zoltán (1861-1932)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

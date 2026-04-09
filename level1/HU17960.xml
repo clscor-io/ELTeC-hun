@@ -7,8 +7,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Egy cserepár naplója : ELTeC kiadás</title>
-                <author ref="viaf:121507699">Virághalmi Ferenc (1826-1875)</author>
+                <title ref="wikidata:Q111172467">Egy cserepár naplója : ELTeC kiadás</title>
+                <author ref="viaf:121507699 wikidata:Q1460204">Virághalmi Ferenc (1826-1875)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
                     <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

@@ -7,8 +7,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bujdosó könyv : ELTeC kiadás</title>
-                <author ref="viaf:49267950">Tormay Cécile (1876-1937)</author>
+                <title ref="wikidata:Q111172458">Bujdosó könyv : ELTeC kiadás</title>
+                <author ref="viaf:49267950 wikidata:Q241470">Tormay Cécile (1876-1937)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
                     <name>Palkó Gábor<ref target="https://viaf.org/viaf/"/>

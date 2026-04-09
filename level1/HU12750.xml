@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>A rab király szabadon : Fantasztikus állatregény : ELTeC edition</title>
-            <author ref="viaf:84079235">Bársony István (1863-1924)</author>
+            <title ref="wikidata:Q111172441">A rab király szabadon : Fantasztikus állatregény : ELTeC edition</title>
+            <author ref="viaf:84079235 wikidata:Q331431">Bársony István (1863-1924)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

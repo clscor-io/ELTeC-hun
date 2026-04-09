@@ -7,8 +7,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Meghasonlott kedély : ELTeC kiadás</title>
-                <author ref="viaf:121426252">Kelmenfy László (1815-1851)</author>
+                <title ref="wikidata:Q1175458">Meghasonlott kedély : ELTeC kiadás</title>
+                <author ref="viaf:121426252 wikidata:Q1106516">Kelmenfy László (1815-1851)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
                     <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

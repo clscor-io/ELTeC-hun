@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>A darázs mérge : Regény : ELTeC edition</title>
-            <author ref="viaf:121449348">Kada Elek (1852-1913)</author>
+            <title ref="wikidata:Q111172420">A darázs mérge : Regény : ELTeC edition</title>
+            <author ref="viaf:121449348 wikidata:Q1103185">Kada Elek (1852-1913)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

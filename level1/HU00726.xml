@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Bácsmegyeinek gyötrelmei : ELTeC edition</title>
-            <author ref="viaf:9867747">Kazinczy Ferenc (1759-1831)</author>
+            <title ref="wikidata:Q111172456">Bácsmegyeinek gyötrelmei : ELTeC edition</title>
+            <author ref="viaf:9867747 wikidata:Q381865">Kazinczy Ferenc (1759-1831)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

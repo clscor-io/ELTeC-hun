@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>A gólyakalifa : ELTeC edition</title>
-            <author ref="viaf:49221125">Babits Mihály (1883-1941)</author>
+            <title ref="wikidata:Q12351122">A gólyakalifa : ELTeC edition</title>
+            <author ref="viaf:49221125 wikidata:Q332482">Babits Mihály (1883-1941)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

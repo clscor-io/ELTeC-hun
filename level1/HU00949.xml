@@ -7,9 +7,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>A Noszty fiú esete Tóth Marival : ELTeC edition
+            <title ref="wikidata:Q42193532">A Noszty fiú esete Tóth Marival : ELTeC edition
             </title>
-            <author ref="viaf:46774986">Mikszáth Kálmán (1847-1910)           
+            <author ref="viaf:46774986 wikidata:Q350552">Mikszáth Kálmán (1847-1910)           
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>

@@ -7,7 +7,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>A bukottak : Regény : ELTeC edition</title>
+            <title ref="wikidata:Q111172418">A bukottak : Regény : ELTeC edition</title>
             <author>Beksics Gusztávné (1849-1903)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>

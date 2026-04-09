@@ -7,8 +7,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Torzképek : ELTeC kiadás</title>
-                <author ref="viaf:121393539">Nagy Ignác (1810-1854)</author>
+                <title ref="wikidata:Q111172522">Torzképek : ELTeC kiadás</title>
+                <author ref="viaf:121393539 wikidata:Q793620">Nagy Ignác (1810-1854)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
                     <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

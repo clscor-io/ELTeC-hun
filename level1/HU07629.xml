@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Az alföldi vadászok tanyája : Regény : ELTeC edition</title>
-            <author ref="viaf:25795116">Podmaniczky Frigyes (1824-1907)</author>
+            <title ref="wikidata:Q111172450">Az alföldi vadászok tanyája : Regény : ELTeC edition</title>
+            <author ref="viaf:25795116 wikidata:Q1237824">Podmaniczky Frigyes (1824-1907)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

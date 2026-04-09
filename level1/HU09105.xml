@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>A zöldköves gyűrű : Regény : ELTeC edition</title>
-            <author ref="viaf:72194515">Török Gyula (1888-1918)</author>
+            <title ref="wikidata:Q111172444">A zöldköves gyűrű : Regény : ELTeC edition</title>
+            <author ref="viaf:72194515 wikidata:Q1328186">Török Gyula (1888-1918)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

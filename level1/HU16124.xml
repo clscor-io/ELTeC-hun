@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>A szemfényvesztők : Regény : ELTeC edition</title>
-            <author ref="viaf:121399672">Bartók Lajos (1851-1902)</author>
+            <title ref="wikidata:Q111172443">A szemfényvesztők : Regény : ELTeC edition</title>
+            <author ref="viaf:121399672 wikidata:Q791040">Bartók Lajos (1851-1902)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Színek és évek : ELTeC edition</title>
-            <author ref="viaf:19708135">Kaffka Margit (1880-1918)
+            <title ref="wikidata:Q111172517">Színek és évek : ELTeC edition</title>
+            <author ref="viaf:19708135 wikidata:Q287762">Kaffka Margit (1880-1918)
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>

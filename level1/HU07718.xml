@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kálozdy Béla : Regény : ELTeC edition</title>
-            <author ref="viaf:73093732">Beöthy Zsolt (1791-1860)</author>
+            <title ref="wikidata:Q111172484">Kálozdy Béla : Regény : ELTeC edition</title>
+            <author ref="viaf:73093732 wikidata:Q794461">Beöthy Zsolt (1791-1860)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

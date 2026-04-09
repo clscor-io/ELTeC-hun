@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Két leány és egy legény : Regény : ELTeC edition</title>
-            <author ref="viaf:121409411">Beöthy László (1826-1857)</author>
+            <title ref="wikidata:Q111172488">Két leány és egy legény : Regény : ELTeC edition</title>
+            <author ref="viaf:121409411 wikidata:Q794452">Beöthy László (1826-1857)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

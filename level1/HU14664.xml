@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Életképek : ELTeC edition</title>
-            <author ref="viaf:6903976">Tolnai Lajos (1837-1902)</author>
+            <title ref="wikidata:Q111172471">Életképek : ELTeC edition</title>
+            <author ref="viaf:6903976 wikidata:Q676593">Tolnai Lajos (1837-1902)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

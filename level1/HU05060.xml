@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Sárarany : ELTeC edition</title>
-            <author ref="viaf:22179627">Móricz Zsigmond (1879-1942)</author>
+            <title ref="wikidata:Q111172512">Sárarany : ELTeC edition</title>
+            <author ref="viaf:22179627 wikidata:Q227312">Móricz Zsigmond (1879-1942)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

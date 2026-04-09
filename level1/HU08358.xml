@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Édes anyaföldem! :  Egy nép s egy ember története  : ELTeC edition</title>
-            <author ref="viaf:120201932"> Benedek Elek (1859-1929)
+            <title ref="wikidata:Q111172463">Édes anyaföldem! :  Egy nép s egy ember története  : ELTeC edition</title>
+            <author ref="viaf:120201932 wikidata:Q521014"> Benedek Elek (1859-1929)
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>

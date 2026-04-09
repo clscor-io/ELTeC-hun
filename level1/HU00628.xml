@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Az ezüst kecske : ELTeC edition</title>
-            <author ref="viaf:49267921">Bródy Sándor (1863-1924)</author>
+            <title ref="wikidata:Q111172453">Az ezüst kecske : ELTeC edition</title>
+            <author ref="viaf:49267921 wikidata:Q738786">Bródy Sándor (1863-1924)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

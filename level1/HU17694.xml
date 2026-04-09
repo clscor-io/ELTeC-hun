@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Amire születtünk : Regény : ELTeC edition</title>
-            <author ref="viaf:121519574">Lux Terka (1873-1938)</author>
+            <title ref="wikidata:Q111172446">Amire születtünk : Regény : ELTeC edition</title>
+            <author ref="viaf:121519574 wikidata:Q20478099">Lux Terka (1873-1938)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

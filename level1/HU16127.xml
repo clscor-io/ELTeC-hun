@@ -7,7 +7,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Salve Regina : Regény : ELTeC edition</title>
+            <title ref="wikidata:Q111172511">Salve Regina : Regény : ELTeC edition</title>
             <author ref="viaf:378155284786787061557">Palotás Fausztin (1855-1922)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>

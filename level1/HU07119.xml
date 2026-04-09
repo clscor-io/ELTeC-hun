@@ -7,7 +7,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kaleidoszkop : ELTeC edition</title>
+            <title ref="wikidata:Q111172483">Kaleidoszkop : ELTeC edition</title>
             <author ref="viaf:na">Cholnoky Viktor (1868-1912)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>

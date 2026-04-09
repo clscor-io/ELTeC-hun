@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>A jövő fészke : ELTeC edition</title>
-            <author ref="viaf:51003824 ">Kabos Ede (1864-1923)</author>
+            <title ref="wikidata:Q111172426">A jövő fészke : ELTeC edition</title>
+            <author ref="viaf:51003824  wikidata:Q1103123">Kabos Ede (1864-1923)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

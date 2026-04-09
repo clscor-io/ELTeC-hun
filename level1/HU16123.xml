@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Az utolsó: Regény három kötetben: ELTeC edition</title>
-            <author ref="viaf:86172276"> Malonyay Dezső (1866-1916) 
+            <title ref="wikidata:Q111172455">Az utolsó: Regény három kötetben: ELTeC edition</title>
+            <author ref="viaf:86172276 wikidata:Q1164345"> Malonyay Dezső (1866-1916) 
             </author>
             <respStmt>
                <resp>ELTeC conversion</resp>

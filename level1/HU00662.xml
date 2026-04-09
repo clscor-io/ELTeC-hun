@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>A láthatatlan ember : Történelmi regény : ELTeC edition</title>
-            <author ref="viaf:24643507">Gárdonyi Géza (1863-1922)</author>
+            <title ref="wikidata:Q468654">A láthatatlan ember : Történelmi regény : ELTeC edition</title>
+            <author ref="viaf:24643507 wikidata:Q221903">Gárdonyi Géza (1863-1922)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

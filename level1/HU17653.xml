@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Két arany hajszál : Regény : ELTeC edition</title>
-            <author ref="viaf:1344243">Czóbel Minka (1855-1947)</author>
+            <title ref="wikidata:Q111172486">Két arany hajszál : Regény : ELTeC edition</title>
+            <author ref="viaf:1344243 wikidata:Q900169">Czóbel Minka (1855-1947)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

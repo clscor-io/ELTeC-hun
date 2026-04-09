@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>A beszélő köntös : ELTeC edition</title>
-            <author ref="viaf:46774986">Mikszáth Kálmán (1847-1910)</author>
+            <title ref="wikidata:Q111172417">A beszélő köntös : ELTeC edition</title>
+            <author ref="viaf:46774986 wikidata:Q350552">Mikszáth Kálmán (1847-1910)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>

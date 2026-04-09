@@ -7,8 +7,8 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>48-tól Világosig : ELTeC kiadás</title>
-            <author ref="viaf:164963805">Ábrai Károly (1830-1912)</author>
+            <title ref="wikidata:Q111172414">48-tól Világosig : ELTeC kiadás</title>
+            <author ref="viaf:164963805 wikidata:Q1469155">Ábrai Károly (1830-1912)</author>
             <respStmt>
                 <resp>ELTeC conversion</resp>
                 <name>Palkó Gábor<ref target="https://viaf.org/viaf/65989506"/>
